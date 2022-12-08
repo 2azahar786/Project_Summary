@@ -5,7 +5,7 @@
 
 **For `Output` of the project click on below link**
 
->[Projct-1 output](./Project%20Css-1/output.png)
+>![Projct-1 output](./Project%20Css-1/output.png)
 
 >[Project-2 output](./Project%20css-2/output.png)
 
